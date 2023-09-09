@@ -7,6 +7,8 @@ DATASET:
 4. https://slator.com/realistic-dataset-evaluating-gender-bias-machine-translation-amazon/
 5. https://github.com/google-research-datasets/NatGenMT
 6. https://github.com/SLAB-NLP/BUG
+7. https://huggingface.co/datasets/stereoset
+   https://github.com/moinnadeem/StereoSet
 
 
 GITHUB CODE:
