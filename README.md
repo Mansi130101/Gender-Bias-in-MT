@@ -25,6 +25,7 @@ BLOGS:
 3. https://medium.com/data-lyrics/gender-bias-in-machine-translation-6fceb8e2a4d1
 4. https://www.marktechpost.com/2022/12/14/amazon-research-introduces-mtgeneval-a-new-benchmark-for-evaluating-gender-bias-in-machine-translation/
 5. https://blog.research.google/2020/04/a-scalable-approach-to-reducing-gender.html
+6. https://venturebeat.com/business/stereoset-measures-racism-sexism-and-other-forms-of-bias-in-ai-language-models/
 
 
 RESOURCES:
