@@ -28,6 +28,7 @@ BLOGS:
 4. https://www.marktechpost.com/2022/12/14/amazon-research-introduces-mtgeneval-a-new-benchmark-for-evaluating-gender-bias-in-machine-translation/
 5. https://blog.research.google/2020/04/a-scalable-approach-to-reducing-gender.html
 6. https://venturebeat.com/business/stereoset-measures-racism-sexism-and-other-forms-of-bias-in-ai-language-models/
+7. https://blog.google/products/translate/reducing-gender-bias-google-translate/
 
 
 RESOURCES:
