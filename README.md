@@ -47,4 +47,5 @@ RESOURCES:
 14. https://www.youtube.com/watch?v=lQz1_gpY5GE
 15. https://www.youtube.com/watch?v=J7CrtblmMnU
 16. https://www.youtube.com/watch?v=Mlja7xYKn1U
+17. https://www.youtube.com/watch?v=qpYyI9Tdtc4
 
