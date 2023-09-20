@@ -35,22 +35,24 @@ BLOGS:
 
 RESOURCES:
 1. https://paperswithcode.com/dataset/bug
-2. https://www.youtube.com/watch?v=MgZFSny8GjI
-3. https://paperswithcode.com/dataset/winobias
-4. https://github.com/zhaojishun/GenderBiasPapers
-5. https://inverseprobability.com/talks/notes/deploying-machine-learning-systems-intellectual-debt-and-auto-ai.html
-6. https://vimeo.com/384485671
-7. https://www.youtube.com/watch?v=p21FjLMf0Fw
-8. https://www.youtube.com/watch?v=zCVrFq6Yz5E
-9. https://www.youtube.com/watch?v=cg_5t_bV4XE
-10. https://www.youtube.com/watch?v=xQxZ3_MENDQ
-11. https://www.youtube.com/watch?v=BSsVm6i83r8
-12. https://www.youtube.com/watch?v=y_PacQ4cMqc
-13. https://www.youtube.com/watch?v=Z7-DjqgO2ws
-14. https://www.youtube.com/watch?v=eje5B73-QUU
-15. https://www.youtube.com/watch?v=oyd5-hKuhzI
-16. https://www.youtube.com/watch?v=lQz1_gpY5GE
-17. https://www.youtube.com/watch?v=J7CrtblmMnU
-18. https://www.youtube.com/watch?v=Mlja7xYKn1U
-19. https://www.youtube.com/watch?v=qpYyI9Tdtc4
+2. https://paperswithcode.com/paper/gender-it-an-annotated-english-italian
+3. https://paperswithcode.com/dataset/gap-coreference-dataset
+4. https://paperswithcode.com/dataset/winobias
+5. https://vimeo.com/384485671
+6. https://github.com/zhaojishun/GenderBiasPapers
+7. https://inverseprobability.com/talks/notes/deploying-machine-learning-systems-intellectual-debt-and-auto-ai.html
+8. https://www.youtube.com/watch?v=MgZFSny8GjI
+9. https://www.youtube.com/watch?v=p21FjLMf0Fw
+10. https://www.youtube.com/watch?v=zCVrFq6Yz5E
+11. https://www.youtube.com/watch?v=cg_5t_bV4XE
+12. https://www.youtube.com/watch?v=xQxZ3_MENDQ
+13. https://www.youtube.com/watch?v=BSsVm6i83r8
+14. https://www.youtube.com/watch?v=y_PacQ4cMqc
+15. https://www.youtube.com/watch?v=Z7-DjqgO2ws
+16. https://www.youtube.com/watch?v=eje5B73-QUU
+17. https://www.youtube.com/watch?v=oyd5-hKuhzI
+18. https://www.youtube.com/watch?v=lQz1_gpY5GE
+19. https://www.youtube.com/watch?v=J7CrtblmMnU
+20. https://www.youtube.com/watch?v=Mlja7xYKn1U
+21. https://www.youtube.com/watch?v=qpYyI9Tdtc4
 
