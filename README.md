@@ -12,7 +12,8 @@ DATASET:
 9. https://huggingface.co/datasets/stereoset : [**GitHub**](https://github.com/moinnadeem/StereoSet)
 10. https://www.sciencedirect.com/science/article/pii/S2352340922001172?via%3Dihub
 11. https://github.com/AdityaKane2001/mitigating_bias [**GitHub**](https://github.com/AdityaKane2001/mitigating_bias),[**Paper**](https://arxiv.org/pdf/2209.03661.pdf)
-    
+12. https://ai4bharat.iitm.ac.in/samanantar/
+13. https://dl.acm.org/doi/10.1145/3377713.3377792  
 
 
 GITHUB CODE:
