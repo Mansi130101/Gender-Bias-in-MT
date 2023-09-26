@@ -1,7 +1,8 @@
 # Gender Bias in MT
+[Compiled GitHub](https://github.com/hiddenvoices/IndicBenchmarkGeB/tree/main)
 
 DATASET:
-1. https://huggingface.co/datasets/md_gender_bias
+1. https://huggingface.co/datasets/md_gender_bias **[EXTRACTED GENDER NEUTRAL DATASET]**
 2. https://storage.googleapis.com/gresearch/translate-gender-challenge-sets/Readme.html : [**details**](https://ai.google/static/documents/case-study-translate-gender-bias.pdf)
 3. https://github.com/ecmonsen/gendered_words
 4. https://www.amazon.science/blog/dataset-helps-evaluate-gender-bias-in-machine-translation-models
@@ -10,6 +11,11 @@ DATASET:
 7. https://github.com/SLAB-NLP/BUG : [**paper**](https://aclanthology.org/2021.findings-emnlp.211.pdf), [**blog/code**](https://paperswithcode.com/dataset/bug)
 8. https://data.mendeley.com/datasets/cmkmx2gzb3/1 : [**details**](https://www.sciencedirect.com/science/article/pii/S2352340922001172#bib0001)
 9. https://huggingface.co/datasets/stereoset : [**GitHub**](https://github.com/moinnadeem/StereoSet)
+10. https://www.sciencedirect.com/science/article/pii/S2352340922001172?via%3Dihub
+11. https://github.com/AdityaKane2001/mitigating_bias [**GitHub**](https://github.com/AdityaKane2001/mitigating_bias),[**Paper**](https://arxiv.org/pdf/2209.03661.pdf)
+12. https://ai4bharat.iitm.ac.in/samanantar/
+13. https://dl.acm.org/doi/10.1145/3377713.3377792
+14. https://arxiv.org/ftp/arxiv/papers/2203/2203.05437.pdf
 
 
 GITHUB CODE:
